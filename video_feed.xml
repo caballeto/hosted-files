@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="https://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title><![CDATA[VideoElephant]]></title>
+        <link>https://mrss.videoelephant.com/</link>
+        <description><![CDATA[VideoElephant MRSS Feed]]></description>
+        <pubDate>Fri, 10 Feb 2023 09:04:15 +0000</pubDate>
+<item>
+    <guid isPermaLink="false">362c81bfbea3ac2150bdbbb1ba3229c5</guid>
+    <title><![CDATA['Help is coming': Turks rush to send aid to fellow citizens stricken by quakes]]></title>
+    <description><![CDATA[As Turkish authorities struggle to reach towns and villages devastated by Monday's catastrophic earthquakes, ordinary citizens are racing to bring aid to the victims, loading their cars and trucks with food, blankets and other urgently needed goods. FRANCE 24's Shona Bhattacharyya, Ludovic De Foucaud and Hussein Assad sent this report from the city of Nurdagi.]]></description>
+    <pubDate>Fri, 10 Feb 2023 09:00:36 +0000</pubDate>
+    <category><![CDATA[news]]></category>
+    <enclosure url="https://s3.amazonaws.com/ve1/3232a821a5f2586ebb2f202c71add0bb.mp4?mid=4650" length="95" type="video/mp4" />
+    <media:content type="video/mp4" url="https://s3.amazonaws.com/ve1/3232a821a5f2586ebb2f202c71add0bb.mp4?mid=4650" duration="95" lang="en">
+        <media:category><![CDATA[news]]></media:category>
+        <media:tags><![CDATA[FRANCE24]]></media:tags>
+        <media:keywords><![CDATA[FRANCE24,VideoElephant]]></media:keywords>
+        <media:thumbnail url="https://s3.amazonaws.com/ve1/720df4c9249941738257def757206158_1.jpg" width="1280" height="720" />
+        <media:credit role="producer" scheme="urn:ebu"><![CDATA[FMM - F24 Video Clips]]></media:credit>
+    </media:content>
+</item>
+</channel>
+</rss>
